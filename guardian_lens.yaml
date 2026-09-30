@@ -1,0 +1,12 @@
+path: /Users/rushanknatekar/Documents/Sem V/Activities/Guardian_Lens/dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: vandalism
+  1: littering_garbage
+  2: pothole
+  3: broken_road_sign
+  4: damaged_road
+  5: mixed_issues
+  6: illegal_parking
