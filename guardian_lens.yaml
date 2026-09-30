@@ -1,4 +1,4 @@
-path: /Users/rushanknatekar/Documents/Sem V/Activities/Guardian_Lens/dataset
+path: ./dataset
 train: images/train
 val: images/val
 test: images/test

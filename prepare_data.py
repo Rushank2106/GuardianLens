@@ -171,7 +171,7 @@ def prepare_dataset():
 
     # Generate guardian_lens.yaml config
     yaml_config = {
-        "path": str(DATASET_OUTPUT_DIR.resolve()),
+        "path": "./dataset",
         "train": "images/train",
         "val": "images/val",
         "test": "images/test",
